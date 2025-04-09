@@ -1,0 +1,30 @@
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
+
+.full-height {
+  min-height: 100vh;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
