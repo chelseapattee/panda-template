@@ -1,5 +1,7 @@
 # Portfolio Template
 
+This is a test of a portfolio app created with Bolt.ai
+
 An Angular 17 portfolio application built with standalone components and Angular Material.
 
 ## Getting Started
