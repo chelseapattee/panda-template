@@ -25,6 +25,23 @@ Build for production:
 npm run build
 ```
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Projects Page
+![Projects Page](screenshots/projects-page.png)
+
+### Project Detail Page
+![Project Detail Page](screenshots/project-detail-page.png)
+
+### Contact Page
+![Contact Page](screenshots/contact-page.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-view.png)
+
 ## Features
 
 - Responsive design with desktop and mobile navigation
